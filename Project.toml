@@ -1,0 +1,4 @@
+name = "SimpleGames"
+uuid = "21a8329c-16f3-42ff-afec-f265027a1dc3"
+authors = ["Antonello Lobianco <antonello@lobianco.org>"]
+version = "0.1.0"
